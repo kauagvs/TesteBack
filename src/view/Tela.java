@@ -11,7 +11,7 @@ import model.dao.CadastroDAO;
 
 /**
  *
- * @author Kaua Semenov
+ * @author Kaua Gabriel Semenov 
  */
 public class Tela extends javax.swing.JFrame {
 
